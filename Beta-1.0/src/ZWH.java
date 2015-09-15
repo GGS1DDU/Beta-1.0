@@ -6,6 +6,7 @@ public class ZWH {
 		int b=100;
    System.out.println(a+b);
    String s="sss";
+   System.out.println(s);
 	}
 
 }
