@@ -8,6 +8,8 @@ public class ZWH {
    String s="sss";
    s="sssssss";
    System.out.println(s);
+   
+   System.out.println("hello");
 
 	}
 
